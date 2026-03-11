@@ -71,7 +71,7 @@ Changes take effect immediately on your next search.
 
 Yes, it's annoying that you have to re-enable this every time Safari restarts. This is Apple's way of ensuring only App Store-vetted extensions run by default.
 
-The proper fix is **notarization**, which requires an Apple Developer account ($99/year). If you have one and want to help get this properly signed and distributed, please open an issue or a PR — it would mean users never have to touch the Develop menu again and the extension would persist across Safari restarts like a normal extension. It'd be massively appreciated. 🙏
+The proper fix is **notarization**, which requires an Apple Developer account ($99/year). If you have one and want to help get this properly signed and distributed, please open an issue or a PR, it would mean users never have to touch the Develop menu again and the extension would persist across Safari restarts like a normal god-given extension. It'd be massively appreciated, though just a request
 
 ---
 
